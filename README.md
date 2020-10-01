@@ -1,6 +1,6 @@
 # Factors Affecting Number of Impressions on Snapchat Political Ads in the United States for the 18-40 Age Range
 ## Background
-Recently, Snapchat has been "actively going after" political ads, according to Jeremi Gorman, Snap's chief business officer, in an Earnings call in July 2020. According to the [article](https://mashable.com/article/snapchat-political-ads-q2-2020-earnings/), Snapchat's predilection for political ads goes against peer social media companies, like Twitter. It would be interesting to see how effective they may be in effecting voters, especially with an upcoming election. 
+Recently, Snapchat has been "actively going after" political ads, according to Jeremi Gorman, Snap's chief business officer, in an Earnings call in July 2020. According to the [article](https://mashable.com/article/snapchat-political-ads-q2-2020-earnings/), Snapchat's predilection for political ads goes against peer social media companies, like Twitter. It would be interesting to see how effective they may be in affecting voters, especially with an upcoming election. 
 
 18-40 year olds are currently eligible to vote, in terms of age, and will also remain voters for the next couple years. Looking into them will prove useful. Psychologically, starting the ad on a weekend might affect number of impressions, given that people will be on their phones more perhaps. How much is spent and how long the ad is live for may increase the number of impressions as they may be more high quality and available for longer.
 
