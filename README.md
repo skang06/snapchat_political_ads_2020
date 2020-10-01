@@ -21,11 +21,15 @@ __Snap Political and Advocacy Ads Library:__ this library contains all the polit
 The simple linear regression line only accounts for approximately 3% (R squared value of .03) of the data, so a multiple linear regression was modelled.
 
 2. __Can you predict the number of impressions for an advertisement based on whether it starts on the weekend, amount spent on the ad, and days it was used?__
+
 A multiple linear regression found that starting on a weekend was insignificant because it had a p-value of .74 (which is greater than .05). Thus, there is reason to believe that the null hypothesis (that there is no relationship between starting on a weekend and number of impressions) is true. 
 
 _Another multiple linear regression was taken with amount spent and the days used (since weekend start was insignificant)._ 
+
 ![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/stats.png)
+
 __Number of impressions = -331958 + 294 * amount spent + 8455 * days used.__
+
 The p-values for spending and days used are both less than .05, so amount spent and days live are both statistically significant variables that affect the number of impressions. Additionally, a low F-significance level indicates that the probability that these two variables do not matter at all in determining number of impressions is basically 0. 
 
 The R Square value of .788 means 78.8% of the number of impressions could be attributed to the multiple linear regression line with spending and the days live as the two independent variables. The high R Square value shows that the number of impressions can be predicted pretty well by this model. The coefficient in front of amount spent signifies that a one dollar increase in amount spent will increase the number of impressions by 294, holding amount of days used constant. The coefficient in front of days used signifies a one day increase in days used increases the number of impressions by 8455, holding amount spent constant. The days used is more important in increasing the number of impressions, relative to price. Finally, with a standard error of 1,724,551 impressions, it seems rather large. However, the average number of impressions on an ad was 836,175 impressions.
