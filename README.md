@@ -5,7 +5,7 @@ Recently, Snapchat has been "actively going after" political ads, according to J
 A look into data from [Snap Political Ads Library](https://www.snap.com/en-US/political-ads/) will help us understand the reach and scope of Snapchat ads.
 
 ## Business Question
-___What factors determine engagement for political ads on Snapchat for the 18-40 age bracket in the United States?___
+___How to determine engagement for political ads on Snapchat for the 18-40 age bracket in the United States?___
 
 ## Open Data 
 __Snap Political and Advocacy Ads Library:__ this library contains all the political and advocacy ads that Snap runs on their platform. A full data dictionary of column variables can be found [here.](https://github.com/skang06/snapchat_political_ads_2020/blob/master/readme.txt)
@@ -24,6 +24,8 @@ The simple linear regression line with the number of days used as the independen
 - A multiple linear regression found that starting on a weekend was insignificant because it had a p-value of .74 (which is greater than .05). Thus, there is reason to believe that the null hypothesis (that there is no relationship between starting on a weekend and number of impressions) is true. 
 
 _Another multiple linear regression was taken with amount spent and the days used (since weekend start was insignificant)._ 
+
+![alt text]()
 
 - There were p-values of <.001 and 1.49 x 10^-7. Both less than .05, so amount spent and days live are both statistically significant variables that affect the number of impressions. Additionally, a low F-significance level at 0 indicates that the probability that these two variables do not matter at all in determining number of impressions is basically 0. 
 
