@@ -31,7 +31,7 @@ _Another multiple linear regression was taken with amount spent and the days use
 
 - The p-values for spending and days used are both less than .05, so amount spent and days live are both statistically significant variables that affect the number of impressions. Additionally, a low F-significance level indicates that the probability that these two variables do not matter at all in determining number of impressions is basically 0. 
 
-_The multiple linear regression equation is number of impressions = -331958 + 294 * amount spent + 8455 * days used._
+__Number of impressions = -331958 + 294 * amount spent + 8455 * days used.__
 
 - The R Square value of .788 means 78.8% of the number of impressions could be attributed to the multiple linear regression line with spending and the days live as the two independent variables. The high R Square value shows that the number of impressions can be predicted pretty well by this model. The coefficient in front of amount spent signifies that a one dollar increase in amount spent will increase the number of impressions by 294, holding amount of days used constant. The coefficient in front of days used signifies a one day increase in days used increases the number of impressions by 8455, holding amount spent constant. The days used is more important in increasing the number of impressions, relative to price. Finally, with a standard error of 1,724,551 impressions, it seems rather large. However, the average number of impressions on an ad was 836,175 impressions.
 
