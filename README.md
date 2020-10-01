@@ -17,6 +17,7 @@ __Snap Political and Advocacy Ads Library:__ this library contains all the polit
 
 1.__How does the number of days the ad was live affect the number of impressions?__
 ![alt text](https://github.com/skang06/snapchat_political_ads_2020/blob/master/days_used.png)
+
 The simple linear regression line only accounts for approximately 3% (R squared value of .03) of the data, so a multiple linear regression was endeavored.
 
 2. __Can you predict the number of impressions for an advertisement based on whether it starts on the weekend, amount spent on the ad, and days it was used?__
